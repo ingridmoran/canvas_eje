@@ -1,0 +1,29 @@
+
+img {
+   /* display: none;
+   */
+   margin-top: 100%;
+
+}
+
+
+
+
+canvas {
+  margin-top: 300px;
+  margin-left:  35px;
+}
+
+
+#imagen{
+
+background-image: url("calle.jpg");
+
+width: 450px;
+height: 430px;
+
+	margin: 0 auto;
+}
+#img{
+
+}
